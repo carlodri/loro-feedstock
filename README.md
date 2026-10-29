@@ -291,4 +291,5 @@ Feedstock Maintainers
 
 * [@AH-Merii](https://github.com/AH-Merii/)
 * [@Leeeon233](https://github.com/Leeeon233/)
+* [@carlodri](https://github.com/carlodri/)
 
